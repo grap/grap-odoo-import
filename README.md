@@ -29,8 +29,8 @@ addon | version | maintainers | summary
 [fermente_custom_import_product_label](fermente_custom_import_product_label/) | 16.0.1.0.0 |  | Extra GRAP Tools to import product data for Product Label module
 [fermente_custom_import_product_margin_classification](fermente_custom_import_product_margin_classification/) | 16.0.1.0.0 |  | Extra GRAP Tools to import product data for Product Margin Classification module
 [fermente_custom_import_product_supplierinfo_qty_multiplier](fermente_custom_import_product_supplierinfo_qty_multiplier/) | 16.0.1.0.0 |  | Extra GRAP Tools to import product data for Product Supplierinfo Quantity Multiplier module
-[fermente_custom_import_purchase_discount](fermente_custom_import_purchase_discount/) | 16.0.1.0.0 |  | Extra GRAP Tools to import product data for Purchase Discount module
-[fermente_custom_import_purchase_triple_discount](fermente_custom_import_purchase_triple_discount/) | 16.0.1.0.0 |  | Extra GRAP Tools to import product data for Purchase Triple Discount module
+[fermente_custom_import_purchase_discount](fermente_custom_import_purchase_discount/) | 16.0.1.0.1 |  | Extra GRAP Tools to import product data for Purchase Discount module
+[fermente_custom_import_purchase_triple_discount](fermente_custom_import_purchase_triple_discount/) | 16.0.1.0.1 |  | Extra GRAP Tools to import product data for Purchase Triple Discount module
 
 [//]: # (end addons)
 
