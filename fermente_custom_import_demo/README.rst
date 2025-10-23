@@ -1,3 +1,7 @@
+.. image:: https://odoo-community.org/readme-banner-image
+   :target: https://odoo-community.org/get-involved?utm_source=readme
+   :alt: Odoo Community Association
+
 ==========================================
 Fermente - Demo Template for Custom Import
 ==========================================
@@ -13,7 +17,7 @@ Fermente - Demo Template for Custom Import
 .. |badge1| image:: https://img.shields.io/badge/maturity-Beta-yellow.png
     :target: https://odoo-community.org/page/development-status
     :alt: Beta
-.. |badge2| image:: https://img.shields.io/badge/licence-AGPL--3-blue.png
+.. |badge2| image:: https://img.shields.io/badge/license-AGPL--3-blue.png
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-grap%2Fgrap--odoo--import-lightgray.png?logo=github
@@ -24,8 +28,8 @@ Fermente - Demo Template for Custom Import
 
 This module improve the "import" features provided by Odoo.
 
-It provides a template (xlsx) compatible with
-the "fermente_custom_import" modules.
+It provides a template (xlsx) compatible with the
+"fermente_custom_import" modules.
 
 **Table of contents**
 
@@ -46,17 +50,18 @@ Credits
 =======
 
 Authors
-~~~~~~~
+-------
 
 * GRAP
 
 Contributors
-~~~~~~~~~~~~
+------------
 
-* Sylvain LE GAL <https://twitter.com/legalsylvain>
+- Sylvain LE GAL
+  <`https://twitter.com/legalsylvain\\> <https://twitter.com/legalsylvain\>>`__
 
 Maintainers
-~~~~~~~~~~~
+-----------
 
 This module is part of the `grap/grap-odoo-import <https://github.com/grap/grap-odoo-import/tree/16.0/fermente_custom_import_demo>`_ project on GitHub.
 

@@ -1,3 +1,7 @@
+.. image:: https://odoo-community.org/readme-banner-image
+   :target: https://odoo-community.org/get-involved?utm_source=readme
+   :alt: Odoo Community Association
+
 ================================
 GRAP - Custom Import Base Module
 ================================
@@ -13,7 +17,7 @@ GRAP - Custom Import Base Module
 .. |badge1| image:: https://img.shields.io/badge/maturity-Beta-yellow.png
     :target: https://odoo-community.org/page/development-status
     :alt: Beta
-.. |badge2| image:: https://img.shields.io/badge/licence-AGPL--3-blue.png
+.. |badge2| image:: https://img.shields.io/badge/license-AGPL--3-blue.png
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-grap%2Fgrap--odoo--import-lightgray.png?logo=github
@@ -24,11 +28,13 @@ GRAP - Custom Import Base Module
 
 This module improve the "import" features provided by Odoo.
 
-It provides generic tools for that purpose, and improve imports for some models.
+It provides generic tools for that purpose, and improve imports for some
+models.
 
-* ``res.partner``:
+- ``res.partner``:
 
-    * Prevent to create duplicates regarding ``name`` and ``vat`` fields.
+     - Prevent to create duplicates regarding ``name`` and ``vat``
+       fields.
 
 TO FINISH
 
@@ -51,17 +57,18 @@ Credits
 =======
 
 Authors
-~~~~~~~
+-------
 
 * GRAP
 
 Contributors
-~~~~~~~~~~~~
+------------
 
-* Sylvain LE GAL <https://twitter.com/legalsylvain>
+- Sylvain LE GAL
+  <`https://twitter.com/legalsylvain\\> <https://twitter.com/legalsylvain\>>`__
 
 Maintainers
-~~~~~~~~~~~
+-----------
 
 This module is part of the `grap/grap-odoo-import <https://github.com/grap/grap-odoo-import/tree/16.0/fermente_custom_import_base>`_ project on GitHub.
 
