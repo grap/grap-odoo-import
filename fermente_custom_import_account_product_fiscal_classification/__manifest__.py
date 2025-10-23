@@ -6,7 +6,7 @@
     "name": "GRAP - Custom Product Import - Fiscal Classification Module",
     "summary": "Extra GRAP Tools to import product data for"
     " Account Product Fiscal Classification",
-    "version": "16.0.1.0.0",
+    "version": "16.0.1.0.1",
     "category": "Tools",
     "author": "GRAP",
     "website": "https://github.com/grap/grap-odoo-import",
