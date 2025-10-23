@@ -1,8 +1,9 @@
 # Do NOT update manually; changes here will be overwritten by Copier
 _commit: 352dc52
 _src_path: https://github.com/grap/oca-addons-repo-template-v16
+additional_ruff_rules: []
 ci: GitHub
-convert_readme_fragments_to_markdown: false
+convert_readme_fragments_to_markdown: true
 enable_checklog_odoo: false
 generate_requirements_txt: true
 github_check_license: true
@@ -22,5 +23,5 @@ repo_name: ' Extra modules to import data in odoo'
 repo_slug: grap-odoo-import
 repo_website: https://github.com/grap/grap-odoo-import
 use_pyproject_toml: false
-use_ruff: false
+use_ruff: true
 
