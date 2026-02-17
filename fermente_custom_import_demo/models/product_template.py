@@ -13,6 +13,9 @@ class ProductTemplate(models.Model):
         return [
             {
                 "label": _("Import Template for Fermente CAE"),
-                "template": "fermente_custom_import_product/static/xlsx/template_product.xlsx",
+                "template": (
+                    "fermente_custom_import_product/"
+                    "static/xlsx/template_product.xlsx"
+                ),
             }
         ]
