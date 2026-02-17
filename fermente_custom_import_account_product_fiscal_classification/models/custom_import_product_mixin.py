@@ -61,7 +61,8 @@ class CustomImportProductMixin(models.AbstractModel):
         else:
             raise ValidationError(
                 _(
-                    "Many Fiscal Classifications Found for the product %(product_name)s."
+                    "Many Fiscal Classifications Found"
+                    " for the product %(product_name)s."
                     " Vat Amount %(vat_amount)s."
                     " Fiscal Classifications : %(classification_names)s",
                     product_name=old_vals.get("name"),

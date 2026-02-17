@@ -27,7 +27,8 @@ class CustomImportPartnerMixin(models.AbstractModel):
             if (vals.get("firstname") or vals.get("lastname")) and vals.get("name"):
                 raise ValidationError(
                     _(
-                        "The file contains contacts that has first name or last name AND"
+                        "The file contains contacts that has"
+                        " first name or last name AND"
                         " name fields defined. Please set a name for a company"
                         " or a first name / last name for an individual."
                         " First Name: %(firstname)s ; "
