@@ -5,7 +5,7 @@
 {
     "name": "Fermente - Demo Template for Custom Import",
     "summary": "Provide Demo Fermente template (xlsx file) to import" " data",
-    "version": "16.0.1.0.1",
+    "version": "16.0.1.0.2",
     "category": "Tools",
     "author": "GRAP",
     "website": "https://github.com/grap/grap-odoo-import",

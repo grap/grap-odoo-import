@@ -21,10 +21,10 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[fermente_custom_import_account_product_fiscal_classification](fermente_custom_import_account_product_fiscal_classification/) | 16.0.1.0.1 |  | Extra GRAP Tools to import product data for Account Product Fiscal Classification
+[fermente_custom_import_account_product_fiscal_classification](fermente_custom_import_account_product_fiscal_classification/) | 16.0.1.0.2 |  | Extra GRAP Tools to import product data for Account Product Fiscal Classification
 [fermente_custom_import_base](fermente_custom_import_base/) | 16.0.1.0.1 |  | Extra GRAP Tools to import data for base module
-[fermente_custom_import_demo](fermente_custom_import_demo/) | 16.0.1.0.1 |  | Provide Demo Fermente template (xlsx file) to import data
-[fermente_custom_import_partner_firstname](fermente_custom_import_partner_firstname/) | 16.0.1.0.1 |  | Extra GRAP Tools to import partner data for Partner First Name module
+[fermente_custom_import_demo](fermente_custom_import_demo/) | 16.0.1.0.2 |  | Provide Demo Fermente template (xlsx file) to import data
+[fermente_custom_import_partner_firstname](fermente_custom_import_partner_firstname/) | 16.0.1.0.2 |  | Extra GRAP Tools to import partner data for Partner First Name module
 [fermente_custom_import_product](fermente_custom_import_product/) | 16.0.1.0.1 |  | Extra GRAP Tools to import data for product module
 [fermente_custom_import_product_label](fermente_custom_import_product_label/) | 16.0.1.0.1 |  | Extra GRAP Tools to import product data for Product Label module
 [fermente_custom_import_product_margin_classification](fermente_custom_import_product_margin_classification/) | 16.0.1.0.1 |  | Extra GRAP Tools to import product data for Product Margin Classification module
