@@ -6,7 +6,7 @@
     "name": "GRAP - Custom Partner Import - First Name Module",
     "summary": "Extra GRAP Tools to import partner data for"
     " Partner First Name module",
-    "version": "16.0.1.0.2",
+    "version": "16.0.1.0.3",
     "category": "Tools",
     "author": "GRAP",
     "website": "https://github.com/grap/grap-odoo-import",

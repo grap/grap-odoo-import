@@ -6,7 +6,7 @@
     "name": "GRAP - Custom Product Import - Purchase Discount Module",
     "summary": "Extra GRAP Tools to import product data for"
     " Purchase Discount module",
-    "version": "16.0.1.0.2",
+    "version": "16.0.1.0.3",
     "category": "Tools",
     "author": "GRAP",
     "website": "https://github.com/grap/grap-odoo-import",

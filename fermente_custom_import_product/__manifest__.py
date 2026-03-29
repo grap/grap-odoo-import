@@ -5,7 +5,7 @@
 {
     "name": "GRAP - Custom Product Import",
     "summary": "Extra GRAP Tools to import data for product module",
-    "version": "16.0.1.0.1",
+    "version": "16.0.1.0.2",
     "category": "Tools",
     "author": "GRAP",
     "website": "https://github.com/grap/grap-odoo-import",
