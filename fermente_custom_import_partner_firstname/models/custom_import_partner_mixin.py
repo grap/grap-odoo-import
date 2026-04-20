@@ -19,7 +19,7 @@ class CustomImportPartnerMixin(models.AbstractModel):
         if old_vals.get("name"):
             new_vals["company_type"] = "company"
         else:
-            new_vals = "person"
+            new_vals["company_type"] = "person"
 
     def _custom_import_hook_check(self, vals_list):
         super()._custom_import_hook_check(vals_list)
