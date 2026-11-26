@@ -1,0 +1,25 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#   * fermente_custom_import_partner_firstname
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. module: fermente_custom_import_partner_firstname
+#: model:ir.model,name:fermente_custom_import_partner_firstname.model_custom_import_partner_mixin
+msgid "Abstract model to import partner (customer and supplier)"
+msgstr ""
+
+#. module: fermente_custom_import_partner_firstname
+#. odoo-python
+#: code:addons/fermente_custom_import_partner_firstname/models/custom_import_partner_mixin.py:0
+#, python-format
+msgid ""
+"The file contains contacts that has first name or last name AND name fields "
+"defined. Please set a name for a company or a first name / last name for an "
+"individual. First Name: %(firstname)s ;  Last Name: %(lastname)s ;  Name: "
+"%(name)s"
+msgstr ""

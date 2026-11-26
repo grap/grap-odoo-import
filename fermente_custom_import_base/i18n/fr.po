@@ -1,0 +1,50 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#   * fermente_custom_import_base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. module: fermente_custom_import_base
+#. odoo-python
+#: code:addons/fermente_custom_import_base/models/custom_import_mixin.py:0
+#, python-format
+msgid ""
+"%(item_qty)d items found for the field %(field_name)s. Value: '%(value)s'."
+msgstr ""
+
+#. module: fermente_custom_import_base
+#: model:ir.model,name:fermente_custom_import_base.model_custom_import_partner_mixin
+msgid "Abstract model to import partner (customer and supplier)"
+msgstr ""
+
+#. module: fermente_custom_import_base
+#: model:ir.model,name:fermente_custom_import_base.model_res_partner
+msgid "Contact"
+msgstr "Contact"
+
+#. module: fermente_custom_import_base
+#: model:ir.model,name:fermente_custom_import_base.model_custom_import_mixin
+msgid "Mixin providing helper for imports"
+msgstr ""
+
+#. module: fermente_custom_import_base
+#. odoo-python
+#: code:addons/fermente_custom_import_base/models/custom_import_mixin.py:0
+#, python-format
+msgid ""
+"The file contain many item(s) with the same value '%(value)s' for the field "
+"'%(field)s'."
+msgstr ""
+
+#. module: fermente_custom_import_base
+#. odoo-python
+#: code:addons/fermente_custom_import_base/models/custom_import_mixin.py:0
+#, python-format
+msgid ""
+"The following items still exist in the database for the field %(field)s. "
+"Values: %(values)s"
+msgstr ""

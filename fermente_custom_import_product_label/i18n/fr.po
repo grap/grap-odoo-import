@@ -1,0 +1,37 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#   * fermente_custom_import_product_label
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. module: fermente_custom_import_product_label
+#: model:ir.model,name:fermente_custom_import_product_label.model_custom_import_product_mixin
+msgid "Abstract model to import product (variant and template)"
+msgstr ""
+
+#. module: fermente_custom_import_product_label
+#: model:ir.model.fields,field_description:fermente_custom_import_product_label.field_product_product__grap_import_label_1
+#: model:ir.model.fields,field_description:fermente_custom_import_product_label.field_product_template__grap_import_label_1
+msgid "Label 1 (For import)"
+msgstr ""
+
+#. module: fermente_custom_import_product_label
+#: model:ir.model.fields,field_description:fermente_custom_import_product_label.field_product_product__grap_import_label_2
+#: model:ir.model.fields,field_description:fermente_custom_import_product_label.field_product_template__grap_import_label_2
+msgid "Label 2 (For import)"
+msgstr ""
+
+#. module: fermente_custom_import_product_label
+#: model:ir.model.fields,field_description:fermente_custom_import_product_label.field_product_product__grap_import_label_3
+#: model:ir.model.fields,field_description:fermente_custom_import_product_label.field_product_template__grap_import_label_3
+msgid "Label 3 (For import)"
+msgstr ""
+
+#. module: fermente_custom_import_product_label
+#: model:ir.model,name:fermente_custom_import_product_label.model_product_template
+msgid "Product"
+msgstr "Produit"
