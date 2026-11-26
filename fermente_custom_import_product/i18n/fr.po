@@ -1,0 +1,60 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#   * fermente_custom_import_product
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. module: fermente_custom_import_product
+#: model:ir.model,name:fermente_custom_import_product.model_custom_import_product_mixin
+msgid "Abstract model to import product (variant and template)"
+msgstr ""
+
+#. module: fermente_custom_import_product
+#: model:ir.model,name:fermente_custom_import_product.model_product_template
+msgid "Product"
+msgstr "Produit"
+
+#. module: fermente_custom_import_product
+#: model:ir.model,name:fermente_custom_import_product.model_product_product
+msgid "Product Variant"
+msgstr "Variante de produit"
+
+#. module: fermente_custom_import_product
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_product__grap_import_supplier_gross_price
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_template__grap_import_supplier_gross_price
+msgid "Supplier Gross Price (For import)"
+msgstr ""
+
+#. module: fermente_custom_import_product
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_product__grap_import_supplier_invoice_qty
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_template__grap_import_supplier_invoice_qty
+msgid "Supplier Invoice Quantity (For import)"
+msgstr ""
+
+#. module: fermente_custom_import_product
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_product__grap_import_supplier_min_qty
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_template__grap_import_supplier_min_qty
+msgid "Supplier Min Quantity (For import)"
+msgstr ""
+
+#. module: fermente_custom_import_product
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_product__grap_import_supplier_name
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_template__grap_import_supplier_name
+msgid "Supplier Name (For import)"
+msgstr "Nom du fournisseur (Pour import)"
+
+#. module: fermente_custom_import_product
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_product__grap_import_supplier_product_code
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_template__grap_import_supplier_product_code
+msgid "Supplier Product Code (For import)"
+msgstr "Référence produit fournisseur (Pour import)"
+
+#. module: fermente_custom_import_product
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_product__grap_import_supplier_product_name
+#: model:ir.model.fields,field_description:fermente_custom_import_product.field_product_template__grap_import_supplier_product_name
+msgid "Supplier Product Name (For import)"
+msgstr ""

@@ -1,0 +1,62 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#   * fermente_custom_import_account_product_fiscal_classification
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#. module: fermente_custom_import_account_product_fiscal_classification
+#: model:ir.model,name:fermente_custom_import_account_product_fiscal_classification.model_custom_import_product_mixin
+msgid "Abstract model to import product (variant and template)"
+msgstr ""
+
+#. module: fermente_custom_import_account_product_fiscal_classification
+#. odoo-python
+#: code:addons/fermente_custom_import_account_product_fiscal_classification/models/custom_import_product_mixin.py:0
+#, python-format
+msgid ""
+"Many Fiscal Classifications Found for the product %(product_name)s. Vat "
+"Amount %(vat_amount)s. Fiscal Classifications : %(classification_names)s"
+msgstr ""
+
+#. module: fermente_custom_import_account_product_fiscal_classification
+#. odoo-python
+#: code:addons/fermente_custom_import_account_product_fiscal_classification/models/custom_import_product_mixin.py:0
+#, python-format
+msgid ""
+"No Fiscal Classification Found for the product %(product_name)s. Vat Amount "
+"%(vat_amount)s"
+msgstr ""
+
+#. module: fermente_custom_import_account_product_fiscal_classification
+#. odoo-python
+#: code:addons/fermente_custom_import_account_product_fiscal_classification/models/custom_import_product_mixin.py:0
+#, python-format
+msgid "No VAT Amount found for the product %(product_name)s"
+msgstr ""
+
+#. module: fermente_custom_import_account_product_fiscal_classification
+#: model:ir.model,name:fermente_custom_import_account_product_fiscal_classification.model_product_template
+msgid "Product"
+msgstr "Produit"
+
+#. module: fermente_custom_import_account_product_fiscal_classification
+#: model:ir.model.fields,field_description:fermente_custom_import_account_product_fiscal_classification.field_product_product__grap_import_list_price_vat_excl
+#: model:ir.model.fields,field_description:fermente_custom_import_account_product_fiscal_classification.field_product_template__grap_import_list_price_vat_excl
+msgid "Sale Price Vat Excl (For import)"
+msgstr ""
+
+#. module: fermente_custom_import_account_product_fiscal_classification
+#: model:ir.model.fields,field_description:fermente_custom_import_account_product_fiscal_classification.field_product_product__grap_import_list_price_vat_incl
+#: model:ir.model.fields,field_description:fermente_custom_import_account_product_fiscal_classification.field_product_template__grap_import_list_price_vat_incl
+msgid "Sale Price Vat Incl (For import)"
+msgstr ""
+
+#. module: fermente_custom_import_account_product_fiscal_classification
+#: model:ir.model.fields,field_description:fermente_custom_import_account_product_fiscal_classification.field_product_product__grap_import_vat_amount
+#: model:ir.model.fields,field_description:fermente_custom_import_account_product_fiscal_classification.field_product_template__grap_import_vat_amount
+msgid "VAT Amount (For import)"
+msgstr " (Pour import)"
